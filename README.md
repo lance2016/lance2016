@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lance2016
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
+- 👀 I’m interested in Project Structure
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... lancefate@163.com
+- 📫 My Email: lancefate@163.com
 
 <!---
 lance2016/lance2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
